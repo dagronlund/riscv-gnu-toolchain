@@ -18,4 +18,4 @@
 	url = ../riscv-qemu.git
 [submodule "riscv-gdb"]
 	path = riscv-gdb
-	url = ../riscv-binutils-gdb.git
+	url = https://github.com/dagronlund/riscv-binutils-gdb.git
